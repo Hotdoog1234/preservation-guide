@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preservation-guide/static/css/main.b66c6885.css",
+    "main.js": "/preservation-guide/static/js/main.2d13e48f.js",
+    "static/js/488.6bbd6569.chunk.js": "/preservation-guide/static/js/488.6bbd6569.chunk.js",
+    "index.html": "/preservation-guide/index.html",
+    "main.b66c6885.css.map": "/preservation-guide/static/css/main.b66c6885.css.map",
+    "main.2d13e48f.js.map": "/preservation-guide/static/js/main.2d13e48f.js.map",
+    "488.6bbd6569.chunk.js.map": "/preservation-guide/static/js/488.6bbd6569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66c6885.css",
+    "static/js/main.2d13e48f.js"
+  ]
+}
