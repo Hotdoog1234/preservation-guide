@@ -23,9 +23,9 @@ function App() {
   return (
     <div className="App">
       {/* Company Logo */}
-      <div className="logo-container">
-       <img src="/img/logo.jpg" alt="Company Logo" className="company-logo" />
-      </div>
+      <header>
+        <img src={`${process.env.PUBLIC_URL}/logo.jpg`} alt="Company Logo" className="company-logo" />
+      </header>
 
       <h1>Preservation Guide Search</h1>
 
