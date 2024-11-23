@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import data from './data.json'; // Importing data.json
+import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   const [selectedParameter, setSelectedParameter] = useState('');
